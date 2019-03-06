@@ -1,0 +1,4 @@
+ssh-keygen -t rsa -C "18661976292@163.com"
+Generating public/private rsa key pair.
+
+
